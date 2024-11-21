@@ -45,7 +45,7 @@
 > Part 3
 
 21.
-` 00 02 * * */5 /backup.sh`
+` 00 02 * * */5 /path/to/backup.sh`
 
 22.
 A hard link cannot span across multiple filesystems but softlinks can .
